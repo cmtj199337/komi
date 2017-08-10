@@ -1,0 +1,3 @@
+rootProject.name = 'komi'
+
+include ':app'
